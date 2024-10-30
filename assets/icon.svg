@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	x="0px" y="0px"
+	width="50px" height="50px" 
+	viewBox="-19 -3 263 263" 
+	xml:space="preserve">
+<g>
+	<!-- square 1 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		113,0
+		168,32
+		113,64
+		57,32
+	"/>
+	<!-- square 2 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		57,32
+		0,64
+		0,129
+		57,97
+	"/>
+	<!-- square 3 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		57,32
+		113,64
+		113,129
+		57,97
+	"/>
+	<!-- square 4 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		113,64
+		168,32
+		168,97
+		113,129
+	"/>
+	<!-- square 5 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		168,32
+		225,64
+		225,129
+		168,97
+	"/>
+	<!-- square 6 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		0,129
+		57,97
+		113,129
+		57,161
+	"/>
+	<!-- square 7 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		113,129
+		168,97
+		225,129
+		168,160
+	"/>
+	<!-- square 8 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		0,129
+		57,161
+		57,225
+		0,194
+	"/>
+	<!-- square 9 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		57,161
+		113,129
+		113,194
+		57,225
+	"/>
+	<!-- square 10 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		113,129
+		168,160
+		168,226
+		113,194
+	"/>
+	<!-- square 11 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		168,160
+		225,129
+		225,194
+		168,226
+	"/>
+	<!-- square 12 -->
+	<polygon fill="#45B29D" stroke="#45B29D" stroke-width="3" points="
+		57,225
+		113,194
+		168,226
+		113,257
+	"/>
+</g>
+</svg>
